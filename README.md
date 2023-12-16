@@ -3,7 +3,8 @@ Generative-based Fusion Mechanism for Multi-modal Object Tracking
 
 ## Pipeline
 
-![image](https://github.com/Zhangyong-Tang/GMMT/assets/28916428/ecd38089-6007-4fdc-bdf6-d0b6380126ee)
+[MainDifference2.pdf](https://github.com/Zhangyong-Tang/GMMT/files/13692735/MainDifference2.pdf)
+
 
 ## Resuts on GTOT
 
