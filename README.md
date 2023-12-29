@@ -1,5 +1,5 @@
 # GMMT
-Generative-based Fusion Mechanism for Multi-modal Object Tracking
+[Generative-based Fusion Mechanism for Multi-modal Object Tracking](https://arxiv.org/abs/2309.01728)
 
 ## Pipeline
 
