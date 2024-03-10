@@ -1,5 +1,7 @@
 # GMMT
 [Generative-based Fusion Mechanism for Multi-modal Object Tracking](https://arxiv.org/abs/2309.01728)
+This work explores the potential of fusing the multi-modal information via generative models.
+Conditional GAN and diffusion model are involved. The results show that the GMs can produce better performance by generating features with less noise.
 
 ## Pipeline
 
