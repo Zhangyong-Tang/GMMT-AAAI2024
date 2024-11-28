@@ -4,6 +4,9 @@
 This work explores the potential of fusing the multi-modal information via generative models.
 Conditional GAN and diffusion model are involved. The results show that the GMs can produce better performance by generating features with less noise.
 
+🫵Find our survey work at another [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
+
+
 ## Pipeline
 
 ![image](https://github.com/Zhangyong-Tang/GMMT/assets/28916428/ac62056d-d81a-42ba-9df2-c4073c054e15)
